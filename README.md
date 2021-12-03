@@ -1,14 +1,27 @@
-### Hi there 👋
+# Welcome!
+
+ 
+
+<h1>I'm Rafael Sandes!</h1>
+
+ 
+
+:computer: I’m a Systems Analyst and Python Developer under construction
+
+:house_with_garden: I’m from Brazil.
+ 
+
 <br><br>
 <div align="center">
   <a href="https://github.com/sandesrafael">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sandesrafael&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandesrafael&layout=compact&langs_count=7&theme=merko"/>
 </div>
+
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
   ##
